@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 
 
-![snake gif](https://github.com/Lc-Junior/Lc-Junior/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Lc-Junior/Lc-Junior/blob/output/github-contribution-grid-snake-dark.svg)
